@@ -1,0 +1,4 @@
+CREATE SCHEMA IF NOT EXISTS bd_events
+OPTIONS (
+    description="Esquema para almacenar los eventos de login y compra"
+);
